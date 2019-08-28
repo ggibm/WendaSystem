@@ -25,5 +25,8 @@ public class TestController {
         return "test";
     }
 
+    public void test(){
+        String string = "string";
+    }
 
 }
